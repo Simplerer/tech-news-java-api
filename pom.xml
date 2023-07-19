@@ -69,6 +69,11 @@
 			<version>RELEASE</version>
 			<scope>compile</scope>
 		</dependency>
+		<dependency>
+			<groupId>com.sun.istack</groupId>
+			<artifactId>istack-commons</artifactId>
+			<version>4.1.1</version>
+		</dependency>
 	</dependencies>
 
 	<build>
